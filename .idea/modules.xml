@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UltimateAndroidCameraGuide.iml" filepath="$PROJECT_DIR$/UltimateAndroidCameraGuide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidCameraNavigation.iml" filepath="$PROJECT_DIR$/AndroidCameraNavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidCameraSample.iml" filepath="$PROJECT_DIR$/AndroidCameraSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/camera/camera.iml" filepath="$PROJECT_DIR$/camera/camera.iml" />
       <module fileurl="file://$PROJECT_DIR$/ultimate.iml" filepath="$PROJECT_DIR$/ultimate.iml" />
     </modules>
